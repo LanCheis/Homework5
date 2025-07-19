@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.homework.photoapp"
+    namespace = "com.example.homework5"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.homework.photoapp"
+        applicationId = "com.example.homework5"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
